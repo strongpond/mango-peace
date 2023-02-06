@@ -31,7 +31,7 @@
 
 ### 프로젝트 데모영상
 
-[영상](https://www.youtube.com/watch?v=micnaXndqY8)
+[데모영상](https://www.youtube.com/watch?v=micnaXndqY8)
 
 
 ​
