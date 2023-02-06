@@ -43,7 +43,7 @@
 
 > - Front-End : Javascript, React, scss, Kakao Map API
 > - Back-End : Python, Django web framework, MySQL, Bcrypt, pyjwt
-> - Common : POSTMAN, RESTful API, Trello(일정관리 및 업무분담)
+> - Common : POSTMAN, RESTful API, Slack / Git + Github / Trello(일정관리 및 업무분담)
 >   ​
 >   ​
 
