@@ -29,9 +29,9 @@
 
 ​
 
-### 프로젝트 시연영상
+### 프로젝트 데모영상
 
-[시연영상](https://www.youtube.com/watch?v=micnaXndqY8)
+[영상](https://www.youtube.com/watch?v=micnaXndqY8)
 
 
 ​
