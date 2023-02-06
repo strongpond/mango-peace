@@ -28,6 +28,12 @@
 - 맛집 추천과 SNS 개념의 접목이 매력적이라고 생각했습니다.
 
 ​
+
+### 프로젝트 시연영상
+
+[시연영상](https://www.youtube.com/watch?v=micnaXndqY8)
+
+
 ​
 
 
@@ -37,7 +43,7 @@
 
 > - Front-End : Javascript, React, scss, Kakao Map API
 > - Back-End : Python, Django web framework, MySQL, Bcrypt, pyjwt
-> - Common : POSTMAN, RESTful API
+> - Common : POSTMAN, RESTful API, Trello(일정관리 및 업무분담)
 >   ​
 >   ​
 
